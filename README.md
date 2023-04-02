@@ -6,4 +6,4 @@ So, with this program you can read, write and rewrite the information of a .txt 
 It has some bugs, but I will improve the app in other moment.
 
 ### Contact
-Discord: `3xotic#2903`# cli-notes-manager
+Discord: `3xotic#2903`
