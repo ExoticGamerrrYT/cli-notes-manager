@@ -41,8 +41,12 @@ def _menu():
 """
 
 while True:
-    print("Hola! ¿Qué desea hacer?" + "\n 1 - Leer un archivo .txt" + "\n 2 - Añadir texto a un archivo .txt" +
-          "\n 3 - Reescribir en un archivo .txt")
+    print(
+        "Hola! ¿Qué desea hacer?"
+        + "\n 1 - Leer un archivo .txt"
+        + "\n 2 - Añadir texto a un archivo .txt"
+        + "\n 3 - Reescribir en un archivo .txt"
+    )
     _decision = input("Su elección: ")
     if _decision == "1":
         read_file()
