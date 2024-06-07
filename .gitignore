@@ -1,0 +1,5 @@
+.venv/
+main.spec
+build/
+dist/
+notes.txt
